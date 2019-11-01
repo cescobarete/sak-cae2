@@ -6,5 +6,7 @@
     "city" : "Shorewood",
     "State" : "IL",
     "Zip" : "60440",
+    "lat" : "40,73",
+    "lng" : "-74.78",
     "favoriteHobby" : "Gaming"
 }
