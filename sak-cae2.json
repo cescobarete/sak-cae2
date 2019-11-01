@@ -1,14 +1,13 @@
 {
-
-    "firstName" : "Christian",
-    "lastName" : "Escobarete",
-    "preferredName" : "christianaescobare@lewisu.edu",
-    "phoneNumber" : "4456789754",
-    "city" : "Shorewood",
-    "State" : "IL",
-    "Zip" : "60440",
-    "lat" : "40,73",
-    "lng" : "-74.78",
-    "favoriteHobby" : "Gaming"
-    
+    "firstName": "Christian",
+    "lastName": "Escobarete",
+    "preferredName": "Christian",
+    "email": "christianaescobare@lewisu.edu",
+    "phoneNumber": "4456789754",
+    "city": "Shorewood",
+    "State": "IL",
+    "Zip": "60440",
+    "lat": "40,73",
+    "lng": "-74.78",
+    "favoriteHobby": "Gaming"
 }
